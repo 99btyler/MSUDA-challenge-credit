@@ -1,5 +1,5 @@
-# MSUDA-challenge-credit
-MSU Data Analytics credit-challenge
+# MSUDA-challenge-machinelearning
+MSU Data Analytics machinelearning-challenge
 
 # Summary
 ### Dataset
